@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.billooms.view3d
+OpenIDE-Module-Layer: com/billooms/view3d/layer.xml
+OpenIDE-Module-Localizing-Bundle: com/billooms/view3d/Bundle.properties
+OpenIDE-Module-Requires: org.openide.windows.WindowManager, org.netbeans.api.javahelp.Help
+OpenIDE-Module-Specification-Version: 1.0
+

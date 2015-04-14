@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.billooms.drawables
+OpenIDE-Module-Localizing-Bundle: com/billooms/drawables/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

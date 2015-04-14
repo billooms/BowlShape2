@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.billooms.cornlathefiletype
+OpenIDE-Module-Install: com/billooms/cornlathefiletype/Installer.class
+OpenIDE-Module-Layer: com/billooms/cornlathefiletype/layer.xml
+OpenIDE-Module-Localizing-Bundle: com/billooms/cornlathefiletype/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
