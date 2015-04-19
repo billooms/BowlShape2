@@ -11,6 +11,7 @@ INSTALLATION:
 This software was generated with NetBeans IDE version 7.1. 
 It requires Java6 or Java7. It will not run on Java8 without modification.
 It requires Java3D to be installed on your computer (which is not compatible with Java8).
+I do not intend to make any further edits and/or improvements to this software.
 
 LICENSE:
 This program is free software: you can redistribute it and/or modify
